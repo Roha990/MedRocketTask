@@ -1,5 +1,5 @@
 # Отчёт для Johns Group.
-Kurtis Weissnat <Telly.Hoeger@billy.biz> 11.09.2023 19:29 
+Kurtis Weissnat <Telly.Hoeger@billy.biz> 11.09.2023 19:19 
 Всего задач:20
 
 ## Актуальные задачи (11):

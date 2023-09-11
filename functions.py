@@ -39,8 +39,8 @@ def create_task(user, tasks) -> None:
         except FileExistsError:
             additionally_name = new_name + "_another"
             while os.path.isfile(additionally_name + ".txt"):
-                collusia = collusia + "_another"
-            os.rename(new_name + ".txt", collusia + ".txt")
+                additionally_name = additionally_name + "_another"
+            os.rename(new_name + ".txt", additionally_name + ".txt")
             write_task(user, user_tasks)
 
 
